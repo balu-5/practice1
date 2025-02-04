@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 cat >> pullf1
 
+=======
+#!/bin?bash
+set -xeo pipefail
+touch fl11
+echo 'code chnged'
+>>>>>>> 2c937b89fdee92567bb9bffe3e88eb2e9229c02b
